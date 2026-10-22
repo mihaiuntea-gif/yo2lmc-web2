@@ -1,0 +1,2 @@
+<?php $page='home'; ?>
+<!DOCTYPE html><html><head><title>YO2LMC - Amateur Radio</title><link rel="stylesheet" href="assets/css/style.css"></head><body><nav><a href='index.php'>Home</a><a href='rigs.php'>Rigs</a><a href='projects.php'>Projects</a></nav><main><h1>YO2LMC</h1><p>Welcome to the official amateur radio website of YO2LMC.</p><p>Radio experimentation, portable operations and homebrew projects.</p></main><footer>© YO2LMC</footer></body></html>
